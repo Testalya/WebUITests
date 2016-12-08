@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="/Users/hamala_natalia/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.0.1/1b9f071c79d7ae546c4c4d3398c9cc5828cf2864/selenium-api-3.0.1.jar" sourcepath="/Users/hamala_natalia/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.0.1/8ec7d0a8bab6b2502d48d784a4f6a6625dc1b62b/selenium-api-3.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/hamala_natalia/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/3.0.1/3ad968cea2754de3009d8a19f3adc52ec94915b3/selenium-chrome-driver-3.0.1.jar" sourcepath="/Users/hamala_natalia/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/3.0.1/3826dc5968e8cb072b78b1d1d9a0beade87fcf01/selenium-chrome-driver-3.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/hamala_natalia/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.0.1/963199423ff445b2c09ef2d5469c964f9a628df3/selenium-remote-driver-3.0.1.jar" sourcepath="/Users/hamala_natalia/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.0.1/737751d78d8053f6274f6033b42888aa99a49a30/selenium-remote-driver-3.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/hamala_natalia/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/3.0.1/653064ccbd3083113ca1e8b5d9c8c822e5822d83/selenium-firefox-driver-3.0.1.jar" sourcepath="/Users/hamala_natalia/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/3.0.1/c70cfc71db9b1ce5c7c25f8cd6b91818c35b923e/selenium-firefox-driver-3.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/hamala_natalia/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/3.0.1/3b36bd9e0708f0fa3a4c41487d5de13be1b1d33d/selenium-safari-driver-3.0.1.jar" sourcepath="/Users/hamala_natalia/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/3.0.1/12fb17a1c3896ecf9d7c3804070e64b9f8c3cc90/selenium-safari-driver-3.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/hamala_natalia/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.0.1/e9c4c37db74ad57554ac747b18e8465055c9e231/selenium-support-3.0.1.jar" sourcepath="/Users/hamala_natalia/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.0.1/3a81188df361ddfbf48fe4050bcb9dfceb7af4ab/selenium-support-3.0.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
